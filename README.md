@@ -15,8 +15,8 @@ I enjoy architecting RESTful APIs, designing intuitive UI/UX, and learning new t
 📧 **Email:** hussam67215@gmail.com  
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt  
-🔗 **LinkedIn:** *(add your link)*  
-🔗 **GitHub:** *(add your link)*  
+🔗 **LinkedIn:** *[https://www.linkedin.com/in/hossam-ahmed-arafat-957363304]*  
+🔗 **GitHub:** *[https://github.com/HossamArafat/HossamArafat/)]*  
 
 ---
 
