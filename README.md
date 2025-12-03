@@ -16,8 +16,9 @@ I enjoy architecting RESTful APIs, designing intuitive UI/UX, and learning new t
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt  
 
-🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)  
-🔗 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/HossamArafat/HossamArafat/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/HossamArafat/HossamArafat/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussam67215@gmail.com)
 
 ---
 
