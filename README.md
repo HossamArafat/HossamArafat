@@ -9,13 +9,13 @@
 
 ## 📍 **About Me**
 
-I'm a passionate **Full-Stack Developer** experienced in building scalable and high-performance web applications using the **MERN Stack**.  
-I enjoy architecting RESTful APIs, designing intuitive UI/UX, and learning new technologies deeply through real projects.
+I’m a Full-Stack Developer with hands-on experience building end-to-end web applications using the MERN
+stack (MongoDB, Express.js, React.js, Node.js). Skilled in designing and implementing RESTful APIs, managing
+databases, and developing responsive, user-friendly interfaces. Highly motivated to understand technologies
+in depth, continuously improving through courses and practical projects.
 
-📧 **Email:** hussam67215@gmail.com  
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt  
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/HossamArafat/HossamArafat/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussam67215@gmail.com)
