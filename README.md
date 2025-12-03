@@ -14,6 +14,8 @@ stack (MongoDB, Express.js, React.js, Node.js). Skilled in designing and impleme
 databases, and developing responsive, user-friendly interfaces. Highly motivated to understand technologies
 in depth, continuously improving through courses and practical projects.
 
+## 🔗 Connect With Me
+
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
