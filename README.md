@@ -1,70 +1,64 @@
-# 👋 Hi, I'm **Hossam Ahmed Arafat**
+<h1 align="center">Hi there 👋, I'm <span style="color:#00A6FB">Hossam Ahmed Arafat</span></h1>
+<h3 align="center">Software Engineer • Full-Stack Developer (MERN)</h3>
 
-**Software Engineer | Full-Stack Developer (MERN)**  
-📍 Beni-Suef, Egypt  
-📧 hussam67215@gmail.com  
-📞 +20 122 575 6688
+<p align="center">
+📍 Beni-Suef, Egypt •  
+📧 hussam67215@gmail.com •  
+📞 +20 122 575 6688  
+</p>
 
-[LinkedIn](#) • [GitHub](#)
+<p align="center">
+<a href="#">LinkedIn</a> •
+<a href="#">GitHub</a>
+</p>
 
 ---
 
 ## 🚀 About Me
-
-I’m a **Full-Stack Developer** passionate about building modern, scalable, and user-friendly web applications.  
-I work mainly with the **MERN stack (MongoDB, Express, React, Node)** and enjoy transforming ideas into functional digital products.
-
-I love understanding technologies deeply, improving continuously through courses, projects, and hands-on problem solving.
+Full-stack developer with real-world experience building end-to-end applications using the MERN stack.  
+I enjoy designing APIs, building responsive UIs, managing databases, and understanding systems deeply.
 
 ---
 
-## 🎓 Education
-**Bachelor of Computers & Artificial Intelligence**  
-*Beni-Suef University, Egypt*  
-📅 *2022 — 2025*
+## 🛠️ Tech Stack
 
----
+### 🎨 Front-End
+- React.js • Next.js • Redux  
+- JavaScript (ES6+)  
+- Tailwind CSS • Material UI • Bootstrap  
+- React Router DOM  
+- Basic Angular (Components, Services, Routing)
 
-## 🛠️ Skills
+### 🔧 Back-End
+- Node.js • Express.js  
+- MongoDB • Mongoose ORM  
+- Authentication: JWT, OAuth  
+- REST API Architecture  
+- Security • Validation • Error Handling
 
-### ⭐ Front-End
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js, Redux, React Router  
-- Next.js  
-- Bootstrap, React Bootstrap, Tailwind CSS, Material UI  
-- Responsive UI, Component Architecture  
-- Basic Angular (Components, Routing, Services)
-
-### ⭐ Back-End
-- Node.js, Express.js  
-- REST APIs, Routing, Middleware  
-- Authentication (JWT, OAuth)  
-- MongoDB, Mongoose ORM, Aggregation  
-- Error Handling, Validation, Security Best Practices
-
-### ⭐ Tools & Other Skills
+### 🧰 Tools
 - Git & GitHub  
-- Postman (API Testing)  
-- Deployment  
-- Linux & Command Line  
-- Continuous Learning & Problem Solving
+- Postman  
+- Linux CLI  
+- Deployment (various environments)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Insights
 
-![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 💡 What I’m Focusing On
-- Building full-stack MERN apps  
-- Improving UI/UX and design patterns  
-- Exploring DevOps & Cloud tools  
-- Practicing algorithms and system design
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react"/>
+</p>
 
 ---
 
-🔥 *Always learning. Always building.*  
+## 🌱 Currently Exploring
+- Advanced React patterns  
+- Full MERN project architectures  
+- CI/CD pipelines  
+- Cloud services (AWS basics)
+
+---
+
+<p align="center">✨ *Building useful things one project at a time.* ✨</p>
