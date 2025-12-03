@@ -14,10 +14,13 @@ stack (MongoDB, Express.js, React.js, Node.js). Skilled in designing and impleme
 databases, and developing responsive, user-friendly interfaces. Highly motivated to understand technologies
 in depth, continuously improving through courses and practical projects.
 
+---
+
 ## 🔗 Connect With Me
 
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/HossamArafat/HossamArafat/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussam67215@gmail.com)
@@ -70,43 +73,6 @@ Beni-Suef University (2022 → 2025)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-
----
-
-# 🚀 Featured Projects
-
-### 🌐 **MERN Social Media App**
-✔ Authentication (JWT)  
-✔ Posts, Comments, Likes  
-✔ Multer + Cloudinary Uploads  
-✔ Admin & User Roles  
-
-### 🛒 **Full E-Commerce (MERN)**
-✔ Cart + Checkout  
-✔ Product CRUD  
-✔ Payment API  
-✔ Admin Panel  
-
-### 🎥 **Video Streaming App**
-✔ Protected Streaming  
-✔ User Roles  
-✔ Chunked Video Delivery  
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hossam&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam&theme=tokyonight&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hossam&theme=dracula&margin-w=10"/>
-</p>
-
----
 
 # 🤝 Want to Collaborate?
 
