@@ -20,7 +20,6 @@ in depth, continuously improving through courses and practical projects.
 
 📞 **Phone:** +20 122 575 6688  
 📍 **Location:** Beni-Suef, Egypt 
-
 📄 **My CV:** [View](https://github.com/HossamArafat/assets/blob/main/cv.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
