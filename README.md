@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Hossam Ahmed Arafat 👋</h1>
-<h3 align="center">Software Engineer • Full-Stack Developer (MERN)</h3>
+<h3 align="center">Full-Stack Developer (MERN)</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/bd/cd/27/bdcd27758fe38e55684fb90f7f7a7c63.gif" width="350" />
