@@ -24,8 +24,8 @@ in depth, continuously improving through courses and practical projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hossam-ahmed-arafat-957363304/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/HossamArafat/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hussam67215@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instgram-G14451?logo=instagram&logoColor=white)](https://www.instagram.com/hosam_arfat)
+[![Email](https://img.shields.io/badge/Email-L14836?logo=gmail&logoColor=white)](mailto:hussam67215@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instgram-D14836?logo=instagram&logoColor=white)](https://www.instagram.com/hosam_arfat)
 
 
 
