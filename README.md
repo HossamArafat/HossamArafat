@@ -48,5 +48,5 @@ Node.js, Express.js, Authentication & Authorization (JWT, OAuth), Middleware, Ro
 (CRUD Operations, Aggregation, Mongoose ORM), Error Handling, Validation, and Security Best Practices 
 
 ### 📦 **Tools & Others**
-Git & GitHub, Postman (API Testing), Deployment, NPM, Multer, Strapi, Apache, Python, C++, Figma, Basic Linux & Command Line,
+Git & GitHub, Postman (API Testing), Deployment, NPM, Multer, Strapi, Python, C++, Figma, Basic Linux & Command Line,
 Continuous Learning & Deep Understanding of Core Concepts
