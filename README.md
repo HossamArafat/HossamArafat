@@ -39,7 +39,7 @@ Beni-Suef University (2022 → 2025)
 # 💻 **Tech Stack**
 
 ### 🚀 **Frontend**
-HTML5, CSS3, JavaScript (ES6+), Bootstrap, React Bootstrap, Tailwind CSS, shadcn/ui, Material UI, React.js,
+HTML5, CSS3, JavaScript (ES6+), TypeScript, Bootstrap, React Bootstrap, Tailwind CSS, shadcn/ui, Material UI, React.js,
 React Router DOM, Redux, Next.js, Basic Angular (Components, Modules, Routing, Services), Responsive UI
 Design & Component-Based Architecture, and State Management
 
